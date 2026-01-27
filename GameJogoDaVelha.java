@@ -14,19 +14,7 @@ import java.nio.file.*;
 import java.util.*;
 import java.util.List;
 
-/**
- * GameJogoDaVelha.java
- *
- * Versão GAMER (estilo D) com:
- * - IA Minimax (Impossível) + dificuldades Fácil/Médio/Impossível
- * - Undo (desfazer)
- * - Persistência de placar em ~/.gamejogodavelha_score.txt
- * - Tema "GAMER": fundo com gradiente/textura-like, hover nos botões, cores fortes
- * - Sons sintetizados por código (click e vitória)
- *
- * O arquivo está ricamente comentado para facilitar leitura no GitHub.
- *
- * Cole em: com.mycompany.gamejogodavelha.GameJogoDaVelha
+
  */
 public class GameJogoDaVelha extends JFrame {
 
